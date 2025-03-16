@@ -3,7 +3,7 @@ package Inheritance;
 public class Main {
     public static void main(String[] args) {
         // inheritance is a process by which one class acquires another
-        //classes attributes and methods
+        //classes attributes and methods.
 
         Car car = new Car();
         car.go();
